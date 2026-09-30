@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HFL//Stories//EN
+BEGIN:VEVENT
+UID:hfl-story-2026-10-02@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261002T160000Z
+DURATION:PT15M
+SUMMARY:Story poll: Vitamin D is just a vitamin
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Vitamin D is just a vitamin\\nOptions: Myth / Fact\\nImage: stories/vitamin-d-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-10-06@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261006T160000Z
+DURATION:PT15M
+SUMMARY:Story poll: Creatine makes your hair fall out
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Creatine makes your hair fall out\\nOptions: Myth / Fact\\nImage: stories/creatine-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-10-09@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261009T160000Z
+DURATION:PT15M
+SUMMARY:Story poll: Any ashwagandha powder works the same
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Any ashwagandha powder works the same\\nOptions: Myth / Fact\\nImage: stories/ashwagandha-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-10-13@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261013T160000Z
+DURATION:PT15M
+SUMMARY:Story poll: Men should crush their estrogen
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Men should crush their estrogen\\nOptions: Myth / Fact\\nImage: stories/estrogen-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-10-16@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261016T160000Z
+DURATION:PT15M
+SUMMARY:Story poll: A couple of drinks lowers your testosterone
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: A couple of drinks lowers your testosterone\\nOptions: Myth / Fact\\nImage: stories/alcohol-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-10-20@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261020T160000Z
+DURATION:PT15M
+SUMMARY:Story poll: A cortisol spike in the morning is bad for you
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: A cortisol spike in the morning is bad for you\\nOptions: Myth / Fact\\nImage: stories/cortisol-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-10-23@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261023T160000Z
+DURATION:PT15M
+SUMMARY:Story poll: More zinc means more testosterone
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: More zinc means more testosterone\\nOptions: Myth / Fact\\nImage: stories/zinc-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-10-27@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261027T160000Z
+DURATION:PT15M
+SUMMARY:Story poll: Crunches burn belly fat
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Crunches burn belly fat\\nOptions: Myth / Fact\\nImage: stories/belly-fat-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-10-30@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261030T160000Z
+DURATION:PT15M
+SUMMARY:Story poll: The daily protein minimum keeps your muscle after 40
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: The daily protein minimum keeps your muscle after 40\\nOptions: Myth / Fact\\nImage: stories/protein-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-11-03@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261103T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Office light is bright enough for your body clock
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Office light is bright enough for your body clock\\nOptions: Myth / Fact\\nImage: stories/clocks-light-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-11-06@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261106T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Your grip says something about your health
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Your grip says something about your health\\nOptions: Myth / Fact\\nImage: stories/grip-strength-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-11-10@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261110T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Holding back raises your testosterone
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Holding back raises your testosterone\\nOptions: Myth / Fact\\nImage: stories/no-nut-november-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-11-13@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261113T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Cold showers stop you getting sick
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Cold showers stop you getting sick\\nOptions: Myth / Fact\\nImage: stories/cold-showers-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-11-17@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261117T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Mouthwash can cancel out your beetroot
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Mouthwash can cancel out your beetroot\\nOptions: Myth / Fact\\nImage: stories/beetroot-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-11-20@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261120T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Most people gain 2 to 5kg over the holidays
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Most people gain 2 to 5kg over the holidays\\nOptions: Myth / Fact\\nImage: stories/holiday-weight-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-11-24@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261124T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Turkey makes you sleepy
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Turkey makes you sleepy\\nOptions: Myth / Fact\\nImage: stories/food-coma-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-11-27@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261127T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: You need 10,000 steps a day
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: You need 10,000 steps a day\\nOptions: Myth / Fact\\nImage: stories/steps-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-12-01@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261201T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: The mg on the front of your magnesium bottle is what you get
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: The mg on the front of your magnesium bottle is what you get\\nOptions: Myth / Fact\\nImage: stories/magnesium-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-12-04@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261204T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Flax is a health food for men
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Flax is a health food for men\\nOptions: Myth / Fact\\nImage: stories/flax-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-12-08@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261208T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Cold weather makes your joints ache
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Cold weather makes your joints ache\\nOptions: Myth / Fact\\nImage: stories/joints-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-12-11@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261211T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Egg whites are the healthy part of the egg
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Egg whites are the healthy part of the egg\\nOptions: Myth / Fact\\nImage: stories/eggs-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-12-15@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261215T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Coffee works better with L-theanine
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Coffee works better with L-theanine\\nOptions: Myth / Fact\\nImage: stories/brain-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-12-18@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261218T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Stop TRT and your own testosterone bounces straight back
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Stop TRT and your own testosterone bounces straight back\\nOptions: Myth / Fact\\nImage: stories/trt-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-12-22@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261222T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Brown rice is much healthier than white
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Brown rice is much healthier than white\\nOptions: Myth / Fact\\nImage: stories/rice-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hfl-story-2026-12-29@jovana
+DTSTAMP:20260930T000000Z
+DTSTART:20261229T170000Z
+DURATION:PT15M
+SUMMARY:Story poll: Your metabolism crashes at 40
+DESCRIPTION:Buffer will ping your phone. Post the Myth or fact? Story on Instagram AND Facebook and add a POLL sticker in the empty space under the headline: \\nQuestion: Your metabolism crashes at 40\\nOptions: Myth / Fact\\nImage: stories/calories-poll.png\\nThe answer frame posts on its own at 7 PM LA.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Story poll
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
